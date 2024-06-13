@@ -5,6 +5,7 @@
 - [**My rank**](https://cr.yp.toc.tf/scoreboard): 92 / 371 (Team SecuritIIE)
 - **My score**: 183
 
+---
 ## 404 CTF 2024
 
 - **My rank**: 174 / 3791
