@@ -24,5 +24,6 @@
 
 - [**RDRL**](https://hackropole.fr/en/writeups/fcsc2019-crypto-rdrl/29c58e8e-ffa6-4104-9d4d-4d74d1b6e354/)
 - [**AdveRSArial Crypto (Kiddo)**](https://hackropole.fr/en/writeups/fcsc2024-crypto-adversarial-crypto-3/46c07344-fcf4-43ea-9109-ed9dc267e90c/)
+- [**El Gamal Fait 2/2**](https://hackropole.fr/en/writeups/fcsc2024-crypto-el-gamal-fait-2/ff930bde-3dc0-4425-8edb-19cf0cf34bdd/)
 
 ---
